@@ -10,8 +10,10 @@ This is a simple command-line Task Manager written in C++. It allows users to:
 
 You need a C++ compiler that supports **C++11 or later** (e.g., `g++`).
 
-### Compile:
+### Compile & run:
 
 ```bash
 g++ -std=c++11 main.cpp TaskManager.cpp -o taskmanager
 
+```bash
+./taskmanager
