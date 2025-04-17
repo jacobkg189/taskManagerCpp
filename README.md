@@ -14,6 +14,4 @@ You need a C++ compiler that supports **C++11 or later** (e.g., `g++`).
 
 ```bash
 g++ -std=c++11 main.cpp TaskManager.cpp -o taskmanager
-
-```bash
 ./taskmanager
